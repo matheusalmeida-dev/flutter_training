@@ -1,6 +1,6 @@
-# web_atividade_3_dsdm
+# web_atividade_4_dsdm
 
-Aplicativo para web atividade de Desenvolvimento de Software para Dispositivos Móveis.
+Aplicativo para web atividade 4 de Desenvolvimento de Software para Dispositivos Móveis.
 
 ## Getting Started
 
